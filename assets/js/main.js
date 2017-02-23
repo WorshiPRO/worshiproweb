@@ -42,6 +42,8 @@
 
 		// Scrolly.
 			$('.scrolly').scrolly();
+		
+
 
 	});
 
