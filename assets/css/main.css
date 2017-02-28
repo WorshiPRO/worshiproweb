@@ -2293,7 +2293,7 @@
 
 	.image {
 		border-radius: 4px;
-		border: 0;
+		border: 0px;
 		display: inline-block;
 		position: relative;
 	}
