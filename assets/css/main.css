@@ -16,7 +16,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
-		margin:0px auto;
+		margin:5px auto;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -2703,6 +2703,9 @@
 	.main {
 		padding: 6em 0 4em 0 ;
 	}
+		.main.style0 {
+			background: #DDDDDD;
+		}
 
 		.main.style1 {
 			background: #fff;
